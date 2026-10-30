@@ -15,7 +15,7 @@ parent_aks = {
 
 parent_acr = {
     acr1 = {
-        name = "nimadevacr20260901"
+        name = "nimadevacr20260902"
         location = "centralindia"
         resource_group_name = "rg-dev"
         sku = "Basic"
